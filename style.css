@@ -25,3 +25,4 @@ footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--line);color:v
 .points{padding-left:20px}.points li{margin:6px 0}
 .support-title{font-size:clamp(26px,5vw,34px);scroll-margin-top:24px}
 header{flex-wrap:wrap}
+.landing .wrap{min-height:100vh;display:flex;flex-direction:column}.landing main{flex:1}.landing .hero{border-bottom:0;margin-bottom:0}
